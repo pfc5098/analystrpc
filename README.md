@@ -6,7 +6,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of analystrpc is to provide some utility functions that
+The goal of analystrpc is to provide some utility functions that can
 automate some work for junior analysts.
 
 ## Installation
