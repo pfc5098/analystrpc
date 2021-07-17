@@ -3,5 +3,6 @@
 export("%>%")
 export(generate_artificial_dataset)
 export(generate_csv_in_temp_folder)
+export(replace_nas_with_zeros)
 importFrom(magrittr,"%>%")
 importFrom(rlang,.data)
