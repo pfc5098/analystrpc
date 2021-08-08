@@ -24,7 +24,9 @@ Imports:
     magrittr,
     rlang,
     progress,
-    tidyr
+    tidyr,
+    stringr,
+    purrr
 Suggests: 
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
