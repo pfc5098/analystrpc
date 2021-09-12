@@ -5,10 +5,10 @@ common_packages_settings <- function() {
   packages <- c(
     "DBI", "sparklyr",
     "tidyverse", "lubridate", "scales", "zeallot",
-    "data.table", "arrow",
+    "data.table", "arrow", "skimr",
     "readxl", "openxlsx",
     "here", "glue",
-    "highcharter", "plotly", "gt",
+    "highcharter", "plotly", "gt", "DT",
     "flexdashboard",
     "tsibble", "slider",
     "ITrpc", "analystrpc"
