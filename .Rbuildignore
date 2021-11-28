@@ -3,3 +3,6 @@
 ^README\.Rmd$
 ^LICENSE\.md$
 ^temp$
+^analystrpc\.Rcheck$
+^analystrpc.*\.tar\.gz$
+^analystrpc.*\.tgz$

@@ -1,3 +1,6 @@
 .Rhistory
 .RData
 .Rproj.user
+analystrpc.Rcheck/
+analystrpc*.tar.gz
+analystrpc*.tgz
