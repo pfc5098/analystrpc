@@ -6,3 +6,4 @@
 ^analystrpc\.Rcheck$
 ^analystrpc.*\.tar\.gz$
 ^analystrpc.*\.tgz$
+^data-raw$
