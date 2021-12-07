@@ -7,6 +7,7 @@ common_packages_settings <- function() {
     "tidyverse", "lubridate", "scales", "zeallot",
     "data.table", "arrow", "skimr", "janitor",
     "readxl", "openxlsx",
+    "janitor",
     "here", "glue",
     "highcharter", "plotly", "gt", "DT",
     "flexdashboard",

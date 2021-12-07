@@ -34,7 +34,8 @@ Imports:
     foreach,
     doMC,
     doParallel,
-    memuse
+    memuse,
+    plotly
 Suggests: 
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
