@@ -13,7 +13,7 @@ common_packages_settings <- function() {
     "flexdashboard",
     "tsibble", "slider",
     "tidymodels",
-    "ITrpc", "analystrpc"
+    "ITrpc", "PLrpc"
   )
 
   for(package in packages) {
