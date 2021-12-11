@@ -6,8 +6,8 @@
 #'
 #' @return A data frame with two columns: (1) k, and (2) wss_to_tss.
 #'
-#'@importFrom rlang .data
-#'@export
+#' @importFrom rlang .data
+#' @export
 tune_kmeans <- function(tbl, k_max, nstart) {
   tibble::tibble(k = 1:k_max) %>%
     dplyr::mutate(
