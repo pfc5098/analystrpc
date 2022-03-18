@@ -11,7 +11,7 @@ replace_nas_with_zeros <- function(tbl){
   )
   for(i in 1:length(tbl)) {
     pb$tick()
-    tbl[[i]] <- tidyr::replace_na(tbl[[i]], 0)
+    if(is.numeric(tbl[[i]])) tbl[[i]] <- tidyr::replace_na(tbl[[i]], 0)
   }
   tbl
 }
